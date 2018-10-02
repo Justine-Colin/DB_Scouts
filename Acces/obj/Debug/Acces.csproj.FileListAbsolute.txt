@@ -1,0 +1,9 @@
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Acces\bin\Debug\Acces.dll
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Acces\bin\Debug\Acces.pdb
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Acces\bin\Debug\Classes.dll
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Acces\obj\Debug\Acces.csproj.CoreCompileInputs.cache
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Acces\obj\Debug\Acces.csproj.CopyComplete
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Acces\obj\Debug\Acces.dll
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Acces\obj\Debug\Acces.pdb
+C:\Users\juju_\source\repos\Projet_DB_SCOUT\Acces\bin\Debug\Classes.pdb
+C:\Users\juju_\source\repos\Projet_DB_SCOUT\Acces\obj\Debug\Acces.csprojAssemblyReference.cache

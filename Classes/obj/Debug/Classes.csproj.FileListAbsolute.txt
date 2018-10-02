@@ -1,0 +1,5 @@
+C:\Users\juju_\source\repos\Projet_DB_SCOUT\Classes\bin\Debug\Classes.dll
+C:\Users\juju_\source\repos\Projet_DB_SCOUT\Classes\bin\Debug\Classes.pdb
+C:\Users\juju_\source\repos\Projet_DB_SCOUT\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\juju_\source\repos\Projet_DB_SCOUT\Classes\obj\Debug\Classes.dll
+C:\Users\juju_\source\repos\Projet_DB_SCOUT\Classes\obj\Debug\Classes.pdb

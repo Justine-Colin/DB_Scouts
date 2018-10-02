@@ -1,0 +1,11 @@
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Gestion\bin\Debug\Gestion.dll
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Gestion\bin\Debug\Gestion.pdb
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Gestion\bin\Debug\Acces.dll
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Gestion\bin\Debug\Classes.dll
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Gestion\bin\Debug\Acces.pdb
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Gestion\obj\Debug\Gestion.csproj.CopyComplete
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Gestion\obj\Debug\Gestion.dll
+c:\users\juju_\source\repos\Projet_DB_SCOUT\Gestion\obj\Debug\Gestion.pdb
+C:\Users\juju_\source\repos\Projet_DB_SCOUT\Gestion\bin\Debug\Classes.pdb
+C:\Users\juju_\source\repos\Projet_DB_SCOUT\Gestion\obj\Debug\Gestion.csprojAssemblyReference.cache
